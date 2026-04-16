@@ -27,7 +27,7 @@ Training images (organized by class)
 Test images with CSV labels
 43 traffic sign categories
 ⚙️ Installation
-git clone https://github.com/your-username/traffic-sign-classification.git
+git clone https://github.com/shibasish03/Traffic-Sign-Detection.git
 cd traffic-sign-classification
 pip install -r requirements.txt
 ▶️ Usage
